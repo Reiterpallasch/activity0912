@@ -22,5 +22,8 @@ Things you may want to cover:
 * Deployment instructions
 
 * ...
+<<<<<<< HEAD
 Removing xxx
 no more useful stuff
+=======
+>>>>>>> parent of fffcc98... xxx added to readme
