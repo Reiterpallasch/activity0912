@@ -22,4 +22,5 @@ Things you may want to cover:
 * Deployment instructions
 
 * ...
-xxx
+Removing xxx
+no more useful stuff
